@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Fazer';
+  src: url('https://uploads-ssl.webflow.com/66b211a864c96e0121835bf6/66b3791f44fd182804905d34_Fazer-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avantt';
+  src: url('https://uploads-ssl.webflow.com/66b211a864c96e0121835bf6/66b3722e7a6ebad1781f1df4_Avantt-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
